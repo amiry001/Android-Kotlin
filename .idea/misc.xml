@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/drawable/bottom_nav.xml" value="0.1" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/drawable/btn_shape.xml" value="0.1675" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/drawable/btn_shape2.xml" value="0.207" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/drawable/btn_shape3.xml" value="0.123" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/drawable/btne.xml" value="0.1335" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/drawable/btns.xml" value="0.16" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/drawable/btnss.xml" value="0.16" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/drawable/ic_home.xml" value="0.146" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/drawable/ic_menu.xml" value="0.194" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/drawable/ic_money.xml" value="0.194" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/drawable/ic_pnr.xml" value="0.1175" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/drawable/ic_time.xml" value="0.1" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_backseat.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_cancel_events.xml" value="0.15" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_cancledtrips.xml" value="0.1765625" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_contact.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_find_trip.xml" value="0.25" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_firstpage.xml" value="0.15" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_forgotpass.xml" value="0.18" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_mainn.xml" value="0.1" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_menu_detail.xml" value="0.10366972477064221" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_menu_details.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_menu_steps.xml" value="0.25" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_money.xml" value="0.1" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_moneyoption.xml" value="0.25" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_payment.xml" value="0.22" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_pnr_p.xml" value="0.22" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_pnrinfo.xml" value="0.22" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_seatselect.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_submit.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_ticket.xml" value="0.22" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_trip_rules.xml" value="0.22" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_tsale.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/activity_user_adapter.xml" value="0.1765625" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/fargment_login.xml" value="0.1" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/fragment_login.xml" value="0.10854700854700855" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/header.xml" value="0.1765625" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/list_item.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/login.xml" value="0.16" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/register_home_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/row.xml" value="0.10854700854700855" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/signup.xml" value="0.22" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/user_details_fragment.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/layout/users_items.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/menu/bottom_nav_menu.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/menu/botttombar.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/menu/buttom_menu.xml" value="0.1765625" />
+        <entry key="..\:/Users/Fatima Amiri/ASPROJECTS/EasyTrip/app/src/main/res/menu/menu.xml" value="0.1765625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

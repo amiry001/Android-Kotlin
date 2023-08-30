@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".Contact">
+
+    <ImageView
+        android:id="@+id/imageView32"
+        android:layout_width="410dp"
+        android:layout_height="160dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/login" />
+
+    <TextView
+        android:id="@+id/textView67"
+        android:layout_width="334dp"
+        android:layout_height="458dp"
+        android:background="#ECFADE"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView32"
+        app:layout_constraintVertical_bias="0.486" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttC"
+        android:layout_width="266dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="144dp"
+        android:background="@drawable/btn_shape"
+        android:text="Contact Us-> +9050040060"
+        android:onClick="showDialer"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView32" />
+
+    <TextView
+        android:id="@+id/textView68"
+        android:layout_width="291dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="80dp"
+        android:textSize="20dp"
+        android:text="EastyTrip
+
+
+        Istanbul-Avcilar-No:11"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView32" />
+
+    <TextView
+        android:id="@+id/textView69"
+        android:layout_width="279dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="236dp"
+        android:text="Call:+90(200)400200"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.575"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView32" />
+
+    <TextView
+        android:id="@+id/textView70"
+        android:layout_width="279dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="308dp"
+        android:text="Faks:+90(200)300500"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.575"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView32" />
+
+    <TextView
+        android:id="@+id/textView71"
+        android:layout_width="279dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="384dp"
+        android:text="E-Posta:EasyTrip@gmail.com"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.575"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView32" />
+</androidx.constraintlayout.widget.ConstraintLayout>

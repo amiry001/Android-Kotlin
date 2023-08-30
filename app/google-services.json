@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709413589858",
+    "project_id": "easytrip-b58f8",
+    "storage_bucket": "easytrip-b58f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709413589858:android:8a006f7985ccf20091123b",
+        "android_client_info": {
+          "package_name": "com.example.easytrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709413589858-uvmg593475cklpmsjrpjv04i99m9bfb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj5Eae-BzQCXi5myEUjrlw3_Mv-LbAiYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709413589858-uvmg593475cklpmsjrpjv04i99m9bfb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

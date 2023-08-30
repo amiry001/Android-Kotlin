@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/myProfile"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_baseline_menu_open_24" />
+
+    <item android:id="@+id/myBasket"
+        android:title="@string/basket"
+        android:icon="@drawable/ic_baseline_settings_applications_24" />
+
+
+
+</menu>

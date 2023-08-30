@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">EasyTrip</string>
+    <string name="aboutmenu">aboutmenu</string>
+    <string name="timeclock">timeclock</string>
+    <string name="favorites">menu1</string>
+    <string name="music">pnr1</string>
+    <string name="money">money1</string>
+    <string name="time">time</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="user" />
+    <string name="explore" />
+    <string name="home" />
+    <string name="profile" />
+    <string name="basket" />
+    <string name="setting" />
+    <string name="Login_text" />
+    <string name="UserNameTextView" />
+    <string name="PasswordText" />
+    <string name="UsernameTextField" />
+    <string name="PasswordTextFiels" />
+    <string name="Login_button" />
+    <string name="signupText" />
+    <string name="SecondNameTextField" />
+    <string name="FirstNameText" />
+    <string name="FirstNameTextField" />
+    <string name="LastNameText" />
+    <string name="submitButton" />
+    <string name="backButton" />
+    <string name="List_of_Users_text" />
+    <string-array name="distance_array">
+        <item>Istanbul to Eskişehir</item>
+        <item>Istanbul to Ankara</item>
+        <item>Istanbul to Bursa</item>
+        <item>Istanbul to Adana</item>
+        <item>Istanbul to Tekirdağ</item>
+
+    </string-array>
+
+    <string-array name="start_array">
+        <item>Istanbul to Eskişehir</item>
+        <item>Istanbul to Ankara</item>
+        <item>Istanbul to Bursa</item>
+        <item>Istanbul to Adana</item>
+        <item>Istanbul to Tekirdağ</item>
+    </string-array>
+
+    <string-array name="stop_array">
+        <item>Istanbul to Eskişehir</item>
+        <item>Istanbul to Ankara</item>
+        <item>Istanbul to Bursa</item>
+        <item>Istanbul to Adana</item>
+        <item>Istanbul to Tekirdağ</item>
+
+    </string-array>
+    <string-array name="country_array">
+        <item>Afghanistan</item>
+        <item>United Arab Emirates</item>
+        <item>Tajikistan</item>
+        <item>Turkiye</item>
+        <item>Lebnon</item>
+
+    </string-array>
+</resources>
